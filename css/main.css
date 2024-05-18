@@ -283,7 +283,10 @@ section.hero .inner-hero {
     display: block;
     padding: 12px 0;
     position: relative;
+    font-weight: 800;
 }
+
+
 .header.switched-header .main-nav li a {
     color: #353031;
 }
